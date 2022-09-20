@@ -6,27 +6,45 @@
 
 - Clone o repositório:
 
-    git clone https://github.com/marrcandre/top_dominios.git
+```bash
+git clone https://github.com/marrcandre/top_dominios.git
+```
 
 - Entre na pasta:
-
-    cd top_dominios
+  
+```bash
+cd top_dominios
+```
 
 - Instale as dependências:
 
-    poetry install
+```bash
+poetry install
+```
 
 - Ative o ambiente virtual:
 
-    poetry shell
+```bash
+poetry shell
+```
+
+- Entre na pasta do projeto:
+
+```bash
+cd src
+``` 
 
 - Execute o script:
 
-    python top_dominios.py
+```bash
+python top_dominios.py
+```
 
 - Se preferir, abra o vscode:
 
-    code .
+```bash
+code .
+```
 
 
 
